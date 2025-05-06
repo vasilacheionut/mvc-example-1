@@ -20,12 +20,12 @@ Un exemplu simplu de arhitectură **MVC** în PHP, pentru începători.
 ## ▶️ Cum se folosește
 
 ```
-1. Copiază tot proiectul într-un folder, ex: `mvc-example`
+1. Copiază tot proiectul într-un folder, ex: `mvc-example-1`
 2. Pornește un server local:
 bash
    php -S localhost:8000
 3. Accesează în browser:
-   http://localhost:8000/index.php
+   http://localhost:8000
 4. Vei vedea o listă de utilizatori afișată cu ajutorul arhitecturii MVC.
 
 ```
